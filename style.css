@@ -24,3 +24,9 @@ h4 {
 li{
 	font-family: 'PT Sans', sans-serif;
 }
+
+img {
+	border:7px solid;
+	border-color: #f5a69f;
+	border-radius: 5%;
+}
